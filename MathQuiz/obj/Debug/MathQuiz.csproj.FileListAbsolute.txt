@@ -28,3 +28,13 @@ C:\Users\Ronnie-PC\Desktop\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateR
 C:\Users\Ronnie-PC\Desktop\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
 C:\Users\Ronnie-PC\Desktop\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
 C:\Users\Ronnie-PC\Desktop\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\Ronnie-PC\Documents\GitHub\CIT365\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\Ronnie-PC\Documents\GitHub\CIT365\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\Ronnie-PC\Documents\GitHub\CIT365\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\Ronnie-PC\Documents\GitHub\CIT365\MathQuiz\obj\Debug\MathQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Ronnie-PC\Documents\GitHub\CIT365\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\Ronnie-PC\Documents\GitHub\CIT365\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\Ronnie-PC\Documents\GitHub\CIT365\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.Cache
+C:\Users\Ronnie-PC\Documents\GitHub\CIT365\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Ronnie-PC\Documents\GitHub\CIT365\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\Ronnie-PC\Documents\GitHub\CIT365\MathQuiz\obj\Debug\MathQuiz.pdb
