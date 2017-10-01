@@ -1,0 +1,14 @@
+C:\Users\Ronnie-PC\source\repos\MegaDesk-3-RonaldStanley\MegaDesk-3-RonaldStanley\bin\Debug\MegaDesk-3-RonaldStanley.exe.config
+C:\Users\Ronnie-PC\source\repos\MegaDesk-3-RonaldStanley\MegaDesk-3-RonaldStanley\bin\Debug\MegaDesk-3-RonaldStanley.exe
+C:\Users\Ronnie-PC\source\repos\MegaDesk-3-RonaldStanley\MegaDesk-3-RonaldStanley\bin\Debug\MegaDesk-3-RonaldStanley.pdb
+C:\Users\Ronnie-PC\source\repos\MegaDesk-3-RonaldStanley\MegaDesk-3-RonaldStanley\obj\Debug\MegaDesk-3-RonaldStanley.csprojResolveAssemblyReference.cache
+C:\Users\Ronnie-PC\source\repos\MegaDesk-3-RonaldStanley\MegaDesk-3-RonaldStanley\obj\Debug\MegaDesk_3_RonaldStanley.AddQuote.resources
+C:\Users\Ronnie-PC\source\repos\MegaDesk-3-RonaldStanley\MegaDesk-3-RonaldStanley\obj\Debug\MegaDesk_3_RonaldStanley.MainMenu.resources
+C:\Users\Ronnie-PC\source\repos\MegaDesk-3-RonaldStanley\MegaDesk-3-RonaldStanley\obj\Debug\MegaDesk_3_RonaldStanley.Properties.Resources.resources
+C:\Users\Ronnie-PC\source\repos\MegaDesk-3-RonaldStanley\MegaDesk-3-RonaldStanley\obj\Debug\MegaDesk-3-RonaldStanley.csproj.GenerateResource.Cache
+C:\Users\Ronnie-PC\source\repos\MegaDesk-3-RonaldStanley\MegaDesk-3-RonaldStanley\obj\Debug\MegaDesk-3-RonaldStanley.csproj.CoreCompileInputs.cache
+C:\Users\Ronnie-PC\source\repos\MegaDesk-3-RonaldStanley\MegaDesk-3-RonaldStanley\obj\Debug\MegaDesk-3-RonaldStanley.exe
+C:\Users\Ronnie-PC\source\repos\MegaDesk-3-RonaldStanley\MegaDesk-3-RonaldStanley\obj\Debug\MegaDesk-3-RonaldStanley.pdb
+C:\Users\Ronnie-PC\source\repos\MegaDesk-3-RonaldStanley\MegaDesk-3-RonaldStanley\obj\Debug\MegaDesk_3_RonaldStanley.DisplayQuote.resources
+C:\Users\Ronnie-PC\source\repos\MegaDesk-3-RonaldStanley\MegaDesk-3-RonaldStanley\obj\Debug\MegaDesk_3_RonaldStanley.ViewAllQuotes.resources
+C:\Users\Ronnie-PC\source\repos\MegaDesk-3-RonaldStanley\MegaDesk-3-RonaldStanley\obj\Debug\MegaDesk_3_RonaldStanley.SearchAllQuotes.resources
